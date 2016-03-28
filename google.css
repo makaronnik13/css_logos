@@ -1,0 +1,38 @@
+#g{
+    display:inline-block;
+    font-size: 500%;
+    color:#34a853;
+    text-decoration: none;
+}
+
+#o{
+    display: inline-block;
+}
+
+#g:first-letter{
+    color:#4285f4;
+}
+
+#o:first-letter{
+    color:#ffba03;
+}
+
+#g:before{
+    content: 'Go';
+    color: #ea4335;
+}
+
+#g:after{
+    content: 'e';
+    color:#ea4335;
+}
+
+#o:before{
+    content: 'og';
+    color: #4285f4;
+}
+
+#o:after{
+    content: 'l';
+    color:#34a853;
+}

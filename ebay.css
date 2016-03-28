@@ -1,0 +1,33 @@
+a:before {
+    content: 'eb';
+    font-family: Arial, Helvetica, serif;
+    color:#e53238;
+    letter-spacing: -7px;
+    text-decoration: none;
+}
+
+a:first-letter{
+    display: block;
+    font-family: Arial, Helvetica, serif;
+    color:#0064d3;
+    letter-spacing: -7px;
+    text-decoration: none;
+}
+
+a{
+    display:block;
+    font-size: 500%;
+    font-family: Arial, Helvetica, serif;
+    color:#f4ae01;
+    letter-spacing: -7px;
+    text-decoration: none;
+}
+
+
+a:after{
+    content: 'y';
+    font-family: Arial, Helvetica, serif;
+    color:#88b719;
+    letter-spacing: -7px;
+    text-decoration: none;
+}
